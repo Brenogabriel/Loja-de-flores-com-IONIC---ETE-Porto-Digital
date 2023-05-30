@@ -1,0 +1,25 @@
+ion-header ion-title {
+  font-weight: bold;
+  color: #bf0603;
+}
+
+ion-list {
+  background: #d1203c;
+  background: linear-gradient(to bottom, #d96273, #d1203c, #9e182c);
+  border-radius: 5px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+ion-item {
+  --ion-background-color: transparent;
+}
+
+ion-input {
+  --ion-background-color: #f9f9f9a4;
+  --ion-padding-start: 10px;
+}
+
+ion-button {
+  background-color: #bf0603;
+  --ion-color: #ffffff;
+}
